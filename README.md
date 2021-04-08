@@ -10,7 +10,7 @@
 
 1. Check that the site is visible. Go to:
 
-  http://your-github-name.github.io
+  http://ronsalas-sit.github.io
 
 1. You should see a simple page, based on the index.html page in the repository. If you do not see it, check:
 
